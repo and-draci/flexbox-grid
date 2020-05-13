@@ -118,15 +118,18 @@ body {
 
 .div-1, .div-2, .div-3 {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
-  color: #fff;
+  color: #000;
   line-height: 1.5em;
   font-size: 1.6em;
-  background-color: #f16059;
+  background-color: #cffaf9;
   height: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
   width: 30%;
+  font-family: 'Lora' sans-serif;
+  border: #b3d4fc 1px solid;
+  text-align: center;
 
 }
 
